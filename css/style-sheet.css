@@ -1,3 +1,13 @@
-h1 {
-    color: blue;
+body {
+
+}
+
+.btn-primary {
+    background-color: #ccff00;
+    border-color: transparent;
+    color: black;
+}
+
+.nav-item {
+    background-color: #ccff00;
 }
